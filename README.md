@@ -10,7 +10,7 @@
 
 The application is available online through GitHub Pages:
 
-**[Open the live application]([https://loubnaferikh.github.io/synchronous-machines-study/](https://synchronous-machines-study.netlify.app/))**
+**[Open the live application](https://synchronous-machines-study.netlify.app/)**
 
 ## Overview
 
